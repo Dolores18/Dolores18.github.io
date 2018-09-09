@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2018-09-09T04:57:07.674Z</updated>
+  <updated>2018-09-09T01:53:14.321Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,26 +15,6 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
-  
-  <entry>
-    <title>successfel!</title>
-    <link href="http://yoursite.com/2018/09/09/successfel/"/>
-    <id>http://yoursite.com/2018/09/09/successfel/</id>
-    <published>2018-09-09T02:04:08.000Z</published>
-    <updated>2018-09-09T04:57:07.674Z</updated>
-    
-    <content type="html"><![CDATA[<p>非常地开心因为终于搭建好第一个个人博客，尽管还有许多不足，但是接下来的日子里我会加倍努力</p><a id="more"></a><p><img src="https://pic2.zhimg.com/80/v2-d196a505f05d5b7aa1e1879d160695d9_hd.jpg" alt="gakki"><br>       非常地开心因为终于搭建好第一个个人博客，尽管还有许多不足，但是接下来的日子里我会加倍努力，改进自己的技术，让这个博客更加美观，希望以后可以坚持每天写博客，可以写一些关于技术学习方面的经验和教训，也可以发表一些对电影和电视作品的观点和看法，亦可以分享对时事热点的意见。</p><p>很明显，我的文笔并不好，同时希望可以在写博客的同时，提升一下自己的语言写作和表达能力。</p>]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;非常地开心因为终于搭建好第一个个人博客，尽管还有许多不足，但是接下来的日子里我会加倍努力&lt;/p&gt;
-    
-    </summary>
-    
-    
-      <category term="生活" scheme="http://yoursite.com/tags/%E7%94%9F%E6%B4%BB/"/>
-    
-  </entry>
   
   <entry>
     <title>auto open editor test</title>
