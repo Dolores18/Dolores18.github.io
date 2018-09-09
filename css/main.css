@@ -1833,7 +1833,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #ff1605;
+  background: #7dffee;
 }
 .links-of-blogroll {
   font-size: 13px;
@@ -3001,10 +3001,6 @@ pre .javascript .function {
     text-align: justify;
   }
 }
-body {
-  background: url("/images/background.jpg");
-  background-attachment: fixed;
-}
 .out-img-topic {
   display: block;
   max-height: 300px;
@@ -3018,4 +3014,8 @@ img.img-topic {
   padding: 0;
   float: right;
   clear: right;
+}
+body {
+  background: url("/images/background.jpg");
+  background-attachment: fixed;
 }
