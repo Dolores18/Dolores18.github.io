@@ -1833,7 +1833,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #7ef7ff;
+  background: #ffff4e;
 }
 .links-of-blogroll {
   font-size: 13px;
@@ -3001,12 +3001,6 @@ pre .javascript .function {
     text-align: justify;
   }
 }
-body {
-  background-image: url("/images/background.jpg");
-  background-attachment: fixed;
-  background-repeat: repeat;
-  background-size: contain;
-}
 .out-img-topic {
   display: block;
   max-height: 300px;
@@ -3021,7 +3015,9 @@ img.img-topic {
   float: right;
   clear: right;
 }
-.posts-expand .post-body img {
-  border: none;
-  padding: 0px;
+body {
+  background-image: url("/images/background.jpg");
+  background-attachment: fixed;
+  background-repeat: repeat;
+  background-size: contain;
 }
