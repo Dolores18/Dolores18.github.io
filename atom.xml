@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2018-09-09T09:27:42.719Z</updated>
+  <updated>2018-09-10T12:13:57.584Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -17,147 +17,22 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>test2</title>
-    <link href="http://yoursite.com/2018/09/09/test2/"/>
-    <id>http://yoursite.com/2018/09/09/test2/</id>
-    <published>2018-09-09T08:56:30.000Z</published>
-    <updated>2018-09-09T09:27:42.719Z</updated>
-    
-    <content type="html"><![CDATA[<p>海内存知己，天涯若比邻，人生啊</p><a id="more"></a><p><img src="https://pic4.zhimg.com/80/102f5c10b151134a2f31f9f1ece5d0af_hd.jpg" alt="gakki"></p><p>无为在歧路</p><p>儿女共战绩</p>]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;海内存知己，天涯若比邻，人生啊&lt;/p&gt;
-    
-    </summary>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>你好，世界</title>
-    <link href="http://yoursite.com/2018/09/09/%E4%BD%A0%E5%A5%BD%EF%BC%8C%E4%B8%96%E7%95%8C/"/>
-    <id>http://yoursite.com/2018/09/09/你好，世界/</id>
-    <published>2018-09-09T08:23:25.000Z</published>
-    <updated>2018-09-09T09:28:03.526Z</updated>
-    
-    <content type="html"><![CDATA[<p>天下之事莫过于易</p><a id="more"></a><pre><code>人生啊人生啊</code></pre>]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;天下之事莫过于易&lt;/p&gt;
-    
-    </summary>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>first night</title>
-    <link href="http://yoursite.com/2018/09/09/1/"/>
-    <id>http://yoursite.com/2018/09/09/1/</id>
-    <published>2018-09-09T07:47:55.000Z</published>
-    <updated>2018-09-09T08:06:55.808Z</updated>
-    
-    <summary type="html">
-    
-    </summary>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>test</title>
-    <link href="http://yoursite.com/2018/09/09/test/"/>
-    <id>http://yoursite.com/2018/09/09/test/</id>
-    <published>2018-09-09T07:46:58.000Z</published>
-    <updated>2018-09-09T09:39:41.603Z</updated>
-    
-    <summary type="html">
-    
-    </summary>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>successfel!</title>
-    <link href="http://yoursite.com/2018/09/09/successfel/"/>
-    <id>http://yoursite.com/2018/09/09/successfel/</id>
+    <title>hello,blog</title>
+    <link href="http://yoursite.com/2018/09/09/0910/"/>
+    <id>http://yoursite.com/2018/09/09/0910/</id>
     <published>2018-09-09T02:04:08.000Z</published>
-    <updated>2018-09-09T09:27:35.335Z</updated>
+    <updated>2018-09-10T12:13:57.584Z</updated>
     
-    <content type="html"><![CDATA[<p>非常地开心因为终于搭建好第一个个人博客，尽管还有许多不足，但是接下来的日子里我会加倍努力</p><a id="more"></a><p>非常地开心因为终于搭建好第一个个人博客，尽管还有许多不足，但是接下来的日子里我会加倍努力，改进自己的技术，让这个博客更加美观，希望以后可以坚持每天写博客，可以写一些关于技术学习方面的经验和教训，也可以发表一些对电影和电视作品的观点和看法，亦可以分享对时事热点的意见。</p><p><img src="https://pic4.zhimg.com/80/102f5c10b151134a2f31f9f1ece5d0af_hd.jpg" alt="1"></p><p>很明显，我的文笔并不好，同时希望可以在写博客的同时，提升一下自己的语言写作和表达能力。</p>]]></content>
+    <content type="html"><![CDATA[<p><center>&lt;front size=”2非常地开心因为终于搭建好第一个个人博客，尽管还有许多不足，但是接下来的日子里我会加倍努力<center></center></center></p><a id="more"></a><p>　　非常地开心因为终于搭建好第一个个人博客，尽管还有许多不足，但是接下来的日子里我会加倍努力，改进自己的技术，让这个博客更加美观，希望以后可以坚持每天写博客，可以写一些关于技术学习方面的经验和教训，也可以发表一些对电影和电视作品的观点和看法，亦可以分享对时事热点的意见。</p><p><img src="https://pic4.zhimg.com/80/102f5c10b151134a2f31f9f1ece5d0af_hd.jpg" alt="1"></p><p><center><font color="black" size="2">哈哈，猜猜这是谁</font><center><br>　　可以说刚开始的确对博客一无所知，只是后来看到有许多学习互联网技术的大佬都弄了一个博客，原来写博客的目的不仅仅是为了好玩，更多的是一种互联网精神的体现，不仅可以通过看别人的博客学到一些新东西，还可以以自身的微博之力，将自己的知识和经验传播和分享出去。这就是我对于博客的理解。其实，我也知道，博客的辉煌时期早已过去，过去很火现在早已走向了没落。现在更多的是进行互联网学习和分享的网民在用。</center></center></p><p>　　不得不感慨一句，自己学习对互联网的认识真的是太晚了，错过了互联网新技术井喷和十分具有创新和活力时期。不过，现在有出现欣欣向荣的一种新技术，即<strong>人工智能和机器学习</strong>。希望可以夯实自己相关的基础，朝这一人类最有创造力和想象力的领域探索！</p>]]></content>
     
     <summary type="html">
     
-      &lt;p&gt;非常地开心因为终于搭建好第一个个人博客，尽管还有许多不足，但是接下来的日子里我会加倍努力&lt;/p&gt;
+      &lt;p&gt;&lt;center&gt;&amp;lt;front size=”2非常地开心因为终于搭建好第一个个人博客，尽管还有许多不足，但是接下来的日子里我会加倍努力&lt;center&gt;&lt;/center&gt;&lt;/center&gt;&lt;/p&gt;
     
     </summary>
     
     
-      <category term="生活" scheme="http://yoursite.com/tags/%E7%94%9F%E6%B4%BB/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>auto open editor test</title>
-    <link href="http://yoursite.com/2018/09/08/auto-open-editor-test/"/>
-    <id>http://yoursite.com/2018/09/08/auto-open-editor-test/</id>
-    <published>2018-09-08T15:35:22.000Z</published>
-    <updated>2018-09-09T01:53:14.321Z</updated>
-    
-    <summary type="html">
-    
-    </summary>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>我为什么要写博客</title>
-    <link href="http://yoursite.com/2018/09/08/%E6%88%91%E4%B8%BA%E4%BB%80%E4%B9%88%E8%A6%81%E5%86%99%E5%8D%9A%E5%AE%A2/"/>
-    <id>http://yoursite.com/2018/09/08/我为什么要写博客/</id>
-    <published>2018-09-08T01:43:19.000Z</published>
-    <updated>2018-09-08T01:43:19.441Z</updated>
-    
-    <summary type="html">
-    
-    </summary>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>第一篇博客</title>
-    <link href="http://yoursite.com/2018/09/07/%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/"/>
-    <id>http://yoursite.com/2018/09/07/第一篇博客/</id>
-    <published>2018-09-07T15:21:57.000Z</published>
-    <updated>2018-09-07T15:21:57.645Z</updated>
-    
-    <summary type="html">
-    
-    </summary>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>Hello World</title>
-    <link href="http://yoursite.com/2018/09/07/hello-world/"/>
-    <id>http://yoursite.com/2018/09/07/hello-world/</id>
-    <published>2018-09-07T13:30:38.163Z</published>
-    <updated>2018-09-09T10:31:12.865Z</updated>
-    
-    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><a id="more"></a><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="noopener">Deployment</a></p>]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;documentation&lt;/a&gt; for more info. If you get any problems when using Hexo, you can find the answer in &lt;a href=&quot;https://hexo.io/docs/troubleshooting.html&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;troubleshooting&lt;/a&gt; or you can ask me on &lt;a href=&quot;https://github.com/hexojs/hexo/issues&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;GitHub&lt;/a&gt;.&lt;/p&gt;
-&lt;h2 id=&quot;Quick-Start&quot;&gt;&lt;a href=&quot;#Quick-Start&quot; class=&quot;headerlink&quot; title=&quot;Quick Start&quot;&gt;&lt;/a&gt;Quick Start&lt;/h2&gt;
-    
-    </summary>
-    
+      <category term="生活　　　" scheme="http://yoursite.com/tags/%E7%94%9F%E6%B4%BB/"/>
     
   </entry>
   
