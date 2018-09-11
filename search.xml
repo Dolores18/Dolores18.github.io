@@ -3,14 +3,9 @@
   <entry>
     <title><![CDATA[hello,blog]]></title>
     <url>%2F2018%2F09%2F09%2F0910%2F</url>
-    <content type="text"><![CDATA[非常地开心因为终于搭建好第一个个人博客，尽管还有许多不足，但是接下来的日子里我会加倍努力 非常地开心因为终于搭建好第一个个人博客，尽管还有许多不足，但是接下来的日子里我会加倍努力，改进自己的技术，让这个博客更加美观，希望以后可以坚持每天写博客，可以写一些关于技术学习方面的经验和教训，也可以发表一些对电影和电视作品的观点和看法，亦可以分享对时事热点的意见。 哈哈，猜猜这是谁 可以说刚开始的确对博客一无所知，只是后来看到有许多学习互联网技术的大佬都弄了一个博客，原来写博客的目的不仅仅是为了好玩，更多的是一种互联网精神的体现，不仅可以通过看别人的博客学到一些新东西，还可以以自身的微博之力，将自己的知识和经验传播和分享出去。这就是我对于博客的理解。其实，我也知道，博客的辉煌时期早已过去，过去很火现在早已走向了没落。现在更多的是进行互联网学习和分享的网民在用。 不得不感慨一句，自己学习对互联网的认识真的是太晚了，错过了互联网新技术井喷和十分具有创新和活力时期。不过，现在有出现欣欣向荣的一种新技术，即人工智能和机器学习。希望可以夯实自己相关的基础，朝这一人类最有创造力和想象力的领域探索！ var ap = new APlayer({ element: document.getElementById("aplayer-jaPEXmXh"), narrow: false, autoplay: false, showlrc: false, music: { title: "*茜さす*", author: "Aimer", url: "http://music.163.com/song/media/outer/url?id=441116287.mp3", pic: "http://img5.imgtn.bdimg.com/it/u=2050098572,3773285353&fm=26&gp=0.jpg", lrc: "" } }); window.aplayers || (window.aplayers = []); window.aplayers.push(ap);]]></content>
+    <content type="text"><![CDATA[非常地开心因为终于搭建好第一个个人博客，尽管还有许多不足，但是接下来的日子里我会加倍努力 非常地开心因为终于搭建好第一个个人博客，尽管还有许多不足，但是接下来的日子里我会加倍努力，改进自己的技术，让这个博客更加美观，希望以后可以坚持每天写博客，可以写一些关于技术学习方面的经验和教训，也可以发表一些对电影和电视作品的观点和看法，亦可以分享对时事热点的意见。 哈哈，猜猜这是谁 可以说刚开始的确对博客一无所知，只是后来看到有许多学习互联网技术的大佬都弄了一个博客，原来写博客的目的不仅仅是为了好玩，更多的是一种互联网精神的体现，不仅可以通过看别人的博客学到一些新东西，还可以以自身的微博之力，将自己的知识和经验传播和分享出去。这就是我对于博客的理解。其实，我也知道，博客的辉煌时期早已过去，过去很火现在早已走向了没落。现在更多的是进行互联网学习和分享的网民在用。 不得不感慨一句，自己学习对互联网的认识真的是太晚了，错过了互联网新技术井喷和十分具有创新和活力时期。不过，现在有出现欣欣向荣的一种新技术，即人工智能和机器学习。希望可以夯实自己相关的基础，朝这一人类最有创造力和想象力的领域探索！ var ap = new APlayer({ element: document.getElementById("aplayer-CKkzlMrP"), narrow: false, autoplay: false, showlrc: false, music: { title: "*茜さす*", author: "Aimer", url: "http://music.163.com/song/media/outer/url?id=441116287.mp3", pic: "http://img5.imgtn.bdimg.com/it/u=2050098572,3773285353&fm=26&gp=0.jpg", lrc: "" } }); window.aplayers || (window.aplayers = []); window.aplayers.push(ap);]]></content>
       <tags>
         <tag>生活　　　</tag>
       </tags>
-  </entry>
-  <entry>
-    <title><![CDATA[第一篇博客]]></title>
-    <url>%2F2018%2F09%2F07%2F%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2%2F</url>
-    <content type="text"><![CDATA[]]></content>
   </entry>
 </search>
