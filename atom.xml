@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2018-09-18T08:42:17.897Z</updated>
+  <updated>2018-09-18T08:44:46.889Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="http://yoursite.com/2018/09/18/918/"/>
     <id>http://yoursite.com/2018/09/18/918/</id>
     <published>2018-09-18T07:51:54.000Z</published>
-    <updated>2018-09-18T08:42:17.897Z</updated>
+    <updated>2018-09-18T08:44:46.889Z</updated>
     
     <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>突然发现我的博客好久没更新了，额</p><a id="more"></a><hr><p><img src="http://api.superbed.cn/pic/5ba0b1b39dc6d62c61a43b4c" alt="1"></p><p>　　好吧，为了不让学习技术的热情熄灭，还是要更新一波的。</p><p>在前一篇文章中，我提到了hexo+githubpage的搭建，不过还是没有介绍清楚。其实，每一个人搭建博客的情况都不一定相同，因为这跟你的hexo版本，安装的主题版本都有极大的关系。可能在我这种情况下，按照我的方法可以搭建成功，放到你的情况下，就有可能失败了。Excuse me,这听上去时不是有一股玄学的味道。好吧，这段写在开头的话，就是为了打消你的完全照搬照抄的念头。</p><p>　　首先，你需要配置好一个博客开发的环境。安装好Git，布置到好git,不知道请自行 <a href="www.baidu.com">百度</a> 安装，安装好node.js和hexo，这就要求你熟悉命令行的操作了。接着通过git命令把你想要的主题文件从githubs克隆岛一个指定文件夹，接着利用hexo 命令进行初始化，初始化之后进入到主题配置文件和站点配置文件中进行相关设置，具体的设置过程十分的复杂，我花了很久才基本搞定，最后为了让你的博客更加地美观，你可以继续从主题配置文件中优化你的配置。</p><p>　　以上。</p>]]></content>
     
@@ -31,6 +31,8 @@
     
     </summary>
     
+    
+      <category term="-技术 -学习" scheme="http://yoursite.com/tags/%E6%8A%80%E6%9C%AF-%E5%AD%A6%E4%B9%A0/"/>
     
   </entry>
   
@@ -61,7 +63,7 @@
     <published>2018-09-09T02:04:08.000Z</published>
     <updated>2018-09-12T15:36:49.981Z</updated>
     
-    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><center>非常地开心因为终于搭建好第一个个人博客，尽管还有许多不足，但是接下来的日子里我会加倍努力</center><a id="more"></a><p>　　非常地开心因为终于搭建好第一个个人博客，尽管还有许多不足，但是接下来的日子里我会加倍努力，改进自己的技术，让这个博客更加美观，希望以后可以坚持每天写博客，可以写一些关于技术学习方面的经验和教训，也可以发表一些对电影和电视作品的观点和看法，亦可以分享对时事热点的意见。</p><p><img src="https://ww2.sinaimg.cn/large/005YhI8igy1fv5jeu998yj30k00e3gmi" alt="1"></p><h2 id="哈哈，猜猜这是谁"><a href="#哈哈，猜猜这是谁" class="headerlink" title="哈哈，猜猜这是谁"></a><center><font color="black" size="2">哈哈，猜猜这是谁</font><center></center></center></h2><p>　　可以说刚开始的确对博客一无所知，只是后来看到有许多学习互联网技术的大佬都弄了一个博客，原来写博客的目的不仅仅是为了好玩，更多的是一种互联网精神的体现，不仅可以通过看别人的博客学到一些新东西，还可以以自身的微博之力，将自己的知识和经验传播和分享出去。这就是我对于博客的理解。其实，我也知道，博客的辉煌时期早已过去，过去很火现在早已走向了没落。现在更多的是进行互联网学习和分享的网民在用。<br>　　不得不感慨一句，自己学习对互联网的认识真的是太晚了，错过了互联网新技术井喷和十分具有创新和活力时期。不过，现在有出现欣欣向荣的一种新技术，即<strong>人工智能和机器学习</strong>。希望可以夯实自己相关的基础，朝这一人类最有创造力和想象力的领域探索！</p>        <div id="aplayer-YaldFSoU" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">            <pre class="aplayer-lrc-content"></pre>        </div>        <script>          var ap = new APlayer({            element: document.getElementById("aplayer-YaldFSoU"),            narrow: false,            autoplay: false,            showlrc: false,            music: {              title: "*茜さす*",              author: "Aimer",              url: "http://music.163.com/song/media/outer/url?id=441116287.mp3",              pic: "http://img5.imgtn.bdimg.com/it/u=2050098572,3773285353&fm=26&gp=0.jpg",              lrc: ""            }          });          window.aplayers || (window.aplayers = []);          window.aplayers.push(ap);        </script>]]></content>
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><center>非常地开心因为终于搭建好第一个个人博客，尽管还有许多不足，但是接下来的日子里我会加倍努力</center><a id="more"></a><p>　　非常地开心因为终于搭建好第一个个人博客，尽管还有许多不足，但是接下来的日子里我会加倍努力，改进自己的技术，让这个博客更加美观，希望以后可以坚持每天写博客，可以写一些关于技术学习方面的经验和教训，也可以发表一些对电影和电视作品的观点和看法，亦可以分享对时事热点的意见。</p><p><img src="https://ww2.sinaimg.cn/large/005YhI8igy1fv5jeu998yj30k00e3gmi" alt="1"></p><h2 id="哈哈，猜猜这是谁"><a href="#哈哈，猜猜这是谁" class="headerlink" title="哈哈，猜猜这是谁"></a><center><font color="black" size="2">哈哈，猜猜这是谁</font><center></center></center></h2><p>　　可以说刚开始的确对博客一无所知，只是后来看到有许多学习互联网技术的大佬都弄了一个博客，原来写博客的目的不仅仅是为了好玩，更多的是一种互联网精神的体现，不仅可以通过看别人的博客学到一些新东西，还可以以自身的微博之力，将自己的知识和经验传播和分享出去。这就是我对于博客的理解。其实，我也知道，博客的辉煌时期早已过去，过去很火现在早已走向了没落。现在更多的是进行互联网学习和分享的网民在用。<br>　　不得不感慨一句，自己学习对互联网的认识真的是太晚了，错过了互联网新技术井喷和十分具有创新和活力时期。不过，现在有出现欣欣向荣的一种新技术，即<strong>人工智能和机器学习</strong>。希望可以夯实自己相关的基础，朝这一人类最有创造力和想象力的领域探索！</p>        <div id="aplayer-dwHaPert" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">            <pre class="aplayer-lrc-content"></pre>        </div>        <script>          var ap = new APlayer({            element: document.getElementById("aplayer-dwHaPert"),            narrow: false,            autoplay: false,            showlrc: false,            music: {              title: "*茜さす*",              author: "Aimer",              url: "http://music.163.com/song/media/outer/url?id=441116287.mp3",              pic: "http://img5.imgtn.bdimg.com/it/u=2050098572,3773285353&fm=26&gp=0.jpg",              lrc: ""            }          });          window.aplayers || (window.aplayers = []);          window.aplayers.push(ap);        </script>]]></content>
     
     <summary type="html">
     
