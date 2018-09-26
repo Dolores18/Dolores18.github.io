@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2018-09-18T08:44:46.889Z</updated>
+  <updated>2018-09-26T02:06:34.807Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,24 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>2018-9-26</title>
+    <link href="http://yoursite.com/2018/09/26/2018-9-26/"/>
+    <id>http://yoursite.com/2018/09/26/2018-9-26/</id>
+    <published>2018-09-26T01:52:09.000Z</published>
+    <updated>2018-09-26T02:06:34.807Z</updated>
+    
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>真的，写博客是一件很需要耐心的事情，现在终于理解哪些每天坚持更新微信推送和博客的人。<br><a id="more"></a></p><p>毫无疑问，每一个人都存在着懒惰心理，这时，如何克服该心理就显得尤为重要了。目前，我的写作能力不是一般的低，语言和文字平平实实，缺乏感染力。所以要提高自己的语言表达能力，需要多学习别人是怎么行文的·，别人谋篇布局的能力体现在哪里，别人为什么能写出那么优美而准确的文字。我认为，这的确与我的懒惰心理有关。活了这么久，从没有自主做一件事情超过两三个月。而且自己有一股技不如人的自卑感。但是难道真的可以就这样得过且过下去，不去做一件自己真正喜欢的事情并为做好它而努力奋斗吗。一·切都归因与我太懒了。至少，从今天起，可以每一天抄一篇文章，多分析一下别人是如何写的。我希望自己可以一点一一点的改变，不再做一个平庸的年轻人，而是做一个积极进取、努力奋斗、充满自信的青年人。</p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;真的，写博客是一件很需要耐心的事情，现在终于理解哪些每天坚持更新微信推送和博客的人。&lt;br&gt;
+    
+    </summary>
+    
+    
+  </entry>
   
   <entry>
     <title>918</title>
@@ -63,7 +81,7 @@
     <published>2018-09-09T02:04:08.000Z</published>
     <updated>2018-09-12T15:36:49.981Z</updated>
     
-    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><center>非常地开心因为终于搭建好第一个个人博客，尽管还有许多不足，但是接下来的日子里我会加倍努力</center><a id="more"></a><p>　　非常地开心因为终于搭建好第一个个人博客，尽管还有许多不足，但是接下来的日子里我会加倍努力，改进自己的技术，让这个博客更加美观，希望以后可以坚持每天写博客，可以写一些关于技术学习方面的经验和教训，也可以发表一些对电影和电视作品的观点和看法，亦可以分享对时事热点的意见。</p><p><img src="https://ww2.sinaimg.cn/large/005YhI8igy1fv5jeu998yj30k00e3gmi" alt="1"></p><h2 id="哈哈，猜猜这是谁"><a href="#哈哈，猜猜这是谁" class="headerlink" title="哈哈，猜猜这是谁"></a><center><font color="black" size="2">哈哈，猜猜这是谁</font><center></center></center></h2><p>　　可以说刚开始的确对博客一无所知，只是后来看到有许多学习互联网技术的大佬都弄了一个博客，原来写博客的目的不仅仅是为了好玩，更多的是一种互联网精神的体现，不仅可以通过看别人的博客学到一些新东西，还可以以自身的微博之力，将自己的知识和经验传播和分享出去。这就是我对于博客的理解。其实，我也知道，博客的辉煌时期早已过去，过去很火现在早已走向了没落。现在更多的是进行互联网学习和分享的网民在用。<br>　　不得不感慨一句，自己学习对互联网的认识真的是太晚了，错过了互联网新技术井喷和十分具有创新和活力时期。不过，现在有出现欣欣向荣的一种新技术，即<strong>人工智能和机器学习</strong>。希望可以夯实自己相关的基础，朝这一人类最有创造力和想象力的领域探索！</p>        <div id="aplayer-dwHaPert" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">            <pre class="aplayer-lrc-content"></pre>        </div>        <script>          var ap = new APlayer({            element: document.getElementById("aplayer-dwHaPert"),            narrow: false,            autoplay: false,            showlrc: false,            music: {              title: "*茜さす*",              author: "Aimer",              url: "http://music.163.com/song/media/outer/url?id=441116287.mp3",              pic: "http://img5.imgtn.bdimg.com/it/u=2050098572,3773285353&fm=26&gp=0.jpg",              lrc: ""            }          });          window.aplayers || (window.aplayers = []);          window.aplayers.push(ap);        </script>]]></content>
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><center>非常地开心因为终于搭建好第一个个人博客，尽管还有许多不足，但是接下来的日子里我会加倍努力</center><a id="more"></a><p>　　非常地开心因为终于搭建好第一个个人博客，尽管还有许多不足，但是接下来的日子里我会加倍努力，改进自己的技术，让这个博客更加美观，希望以后可以坚持每天写博客，可以写一些关于技术学习方面的经验和教训，也可以发表一些对电影和电视作品的观点和看法，亦可以分享对时事热点的意见。</p><p><img src="https://ww2.sinaimg.cn/large/005YhI8igy1fv5jeu998yj30k00e3gmi" alt="1"></p><h2 id="哈哈，猜猜这是谁"><a href="#哈哈，猜猜这是谁" class="headerlink" title="哈哈，猜猜这是谁"></a><center><font color="black" size="2">哈哈，猜猜这是谁</font><center></center></center></h2><p>　　可以说刚开始的确对博客一无所知，只是后来看到有许多学习互联网技术的大佬都弄了一个博客，原来写博客的目的不仅仅是为了好玩，更多的是一种互联网精神的体现，不仅可以通过看别人的博客学到一些新东西，还可以以自身的微博之力，将自己的知识和经验传播和分享出去。这就是我对于博客的理解。其实，我也知道，博客的辉煌时期早已过去，过去很火现在早已走向了没落。现在更多的是进行互联网学习和分享的网民在用。<br>　　不得不感慨一句，自己学习对互联网的认识真的是太晚了，错过了互联网新技术井喷和十分具有创新和活力时期。不过，现在有出现欣欣向荣的一种新技术，即<strong>人工智能和机器学习</strong>。希望可以夯实自己相关的基础，朝这一人类最有创造力和想象力的领域探索！</p>        <div id="aplayer-dpvVnhJm" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">            <pre class="aplayer-lrc-content"></pre>        </div>        <script>          var ap = new APlayer({            element: document.getElementById("aplayer-dpvVnhJm"),            narrow: false,            autoplay: false,            showlrc: false,            music: {              title: "*茜さす*",              author: "Aimer",              url: "http://music.163.com/song/media/outer/url?id=441116287.mp3",              pic: "http://img5.imgtn.bdimg.com/it/u=2050098572,3773285353&fm=26&gp=0.jpg",              lrc: ""            }          });          window.aplayers || (window.aplayers = []);          window.aplayers.push(ap);        </script>]]></content>
     
     <summary type="html">
     
